@@ -1,13 +1,16 @@
+# 👋 ¡Hola! Soy Edgar Martínez Sandoval
 
 ![EdgarMS760's Stats](https://github-readme-stats.vercel.app/api?username=EdgarMS760&theme=monokai&show_icons=true&hide_border=false&count_private=true)
 ![gif](https://i.gifer.com/EbDl.gif)
----
 
+Soy **Desarrollador de Software Full-Stack** con experiencia en el desarrollo de aplicaciones web y móviles, combinando frontend y backend con tecnologías modernas.  
+Actualmente, estoy **transicionando hacia el área de Machine Learning Engineering**, aprendiendo y aplicando conceptos como análisis de datos, modelos predictivos y despliegue de soluciones de IA. 🚀
+
+---
 
 ## 🚀 Tecnologías y Herramientas
 
 ### 🧠 Lenguajes y Frameworks
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -22,30 +25,31 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛢️ Bases de Datos y Backend
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🧪 Testing y Calidad
+![Xunit](https://img.shields.io/badge/Xunit-2C8EBB?style=for-the-badge)
+![SpecFlow](https://img.shields.io/badge/SpecFlow-FF4081?style=for-the-badge)
 
-![Xunit](https://img.shields.io/badge/Xunit-2C8EBB?style=for-the-badge) <!-- No logo oficial disponible -->
-![SpecFlow](https://img.shields.io/badge/SpecFlow-FF4081?style=for-the-badge) <!-- No logo oficial disponible -->
+---
 
+## 📚 Aprendiendo actualmente
+- **Machine Learning Engineering**: procesamiento de datos, embeddings, modelos de clasificación y despliegue en producción.
+- Herramientas: `scikit-learn`, `pandas`, `Jupyter Notebook`, `OpenAI Embeddings`, `XGBoost`.
 
 ---
 
 ## 🌐 Portafolio
-
-📎 [Mi portafolio personal](https://edgarsandovalportafolio.netlify.app/)
+📎 [Visita mi portafolio](https://edgarms.pro/es)
 
 ---
 
 ## 📫 Contacto
-
 - 📧 **edgarsandoval685@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/edgarms01)
 
 ---
-
-¡Gracias por visitar mi perfil! 🚀
+Gracias por visitar mi perfil. 🚀
