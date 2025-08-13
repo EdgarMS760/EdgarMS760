@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Edgar Martínez Sandoval
+# 👋 ¡Hola! Soy Edgar
 
 ![EdgarMS760's Stats](https://github-readme-stats.vercel.app/api?username=EdgarMS760&theme=monokai&show_icons=true&hide_border=false&count_private=true)
 ![gif](https://i.gifer.com/EbDl.gif)
