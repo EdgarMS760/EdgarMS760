@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Edgar
 
-![EdgarMS760's Stats](https://github-readme-stats.vercel.app/api?username=EdgarMS760&theme=monokai&show_icons=true&hide_border=false&count_private=true)
 ![gif](https://i.gifer.com/EbDl.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarMS760&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 Soy **Desarrollador de Software Full-Stack** con experiencia en el desarrollo de aplicaciones web y móviles, combinando frontend y backend con tecnologías modernas.  
 Actualmente, estoy **transicionando hacia el área de Machine Learning Engineering**, aprendiendo y aplicando conceptos como análisis de datos, modelos predictivos y despliegue de soluciones de IA. 🚀
